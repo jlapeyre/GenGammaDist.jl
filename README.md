@@ -1,5 +1,11 @@
 # GenGammaDist
 
+## This package is obsolete
+
+## It is replaced by [GeneralizedGammaDistribution.jl](https://github.com/jlapeyre/GeneralizedGammaDistribution.jl)
+
+
+
 Generalized gamma distribution, and inverse generalized gamma distribution.
 
 Examples
